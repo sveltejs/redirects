@@ -1,0 +1,8 @@
+{
+	"version": 1,
+	"name": "svelte.technology",
+	"alias": "svelte.technology",
+	"files": [
+		"index.js"
+	]
+}

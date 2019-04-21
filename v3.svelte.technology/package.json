@@ -1,0 +1,6 @@
+{
+	"scripts": {
+		"deploy": "now --target production",
+		"start": "node index.js"
+	}
+}
